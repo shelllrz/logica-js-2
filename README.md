@@ -1,2 +1,2 @@
 # Lógica de Programação
-Aprendendo sobre loops e a função Parseint
+Aprendendo sobre loops e a função ParseInt
